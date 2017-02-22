@@ -1,0 +1,13 @@
+header {
+  display:flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight:bold;
+  color: MediumAquamarine;
+  border-bottom-color: black;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+ nav {
+   text-align: right;
+ }
